@@ -1,0 +1,35 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="Undefined" tvg-id="360.tr" tvg-logo="https://i.imgur.com/agn47sQ.png" ,360 TV (720p) [Not 24/7]
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="ATVAvrupa.tr" tvg-logo="https://i.imgur.com/0tm3tui.png" ,ATV Avrupa (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="BeyazTV.tr" tvg-logo="https://i.imgur.com/uykIdML.png" ,Beyaz TV (720p) [Not 24/7]
+https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
+#EXTINF:-1 group-title="News" tvg-id="CNNTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/512px-CNN_T%C3%BCrk_logo.svg.png" ,CNN Türk (720p)
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="DreamTurk.tr" tvg-logo="https://i.imgur.com/vJ8VaZi.png" ,Dream Türk (720p)
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 group-title="Series" tvg-id="FoxTurkey.tr" tvg-logo="https://i.imgur.com/homSiDa.png" ,Fox Türkiye (720p)
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+#EXTINF:-1 group-title="News" tvg-id="Haberturk.tr" tvg-logo="https://i.imgur.com/sUFh3Qr.png" ,Habertürk TV (720p)
+https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="Kanal7.tr" tvg-logo="https://i.imgur.com/pxpLpnH.png" ,Kanal 7 (1080p) [Not 24/7]
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="KanalD.tr" tvg-logo="https://i.imgur.com/9o1atM6.png" ,Kanal D (1080p)
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="KralPopTV.tr" tvg-logo="https://i.imgur.com/ch365lh.png" ,KRAL Pop TV (720p)
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="MinikaGo.tr" tvg-logo="https://i.imgur.com/qIoipDq.png" ,Minika Go (576p) [Not 24/7]
+https://ythls.onrender.com/channel/UCVbCXWXWd0WCNhdBnmP_TmA.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="NTV.tr" tvg-logo="https://i.imgur.com/jXbs8FZ.png" ,NTV (720p) [Not 24/7]
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="ShowTV.tr" tvg-logo="https://i.imgur.com/1l7SCCu.png" ,Show TV
+http://nimplus3.bozztv.com/showtvturk/showtvturk/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="StarTV.tr" tvg-logo="https://i.imgur.com/9O3DHRB.png" ,Star TV (720p) [Not 24/7]
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="Teve2.tr" tvg-logo="https://i.imgur.com/rsoSLih.png" ,Teve2 (1080p)
+https://teve2vod.duhnet.tv/S12/HLS_VOD/382843_2e5b/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png" ,TRT 1 (1080p)
+https://d1u68oyra9spme.cloudfront.net/master.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="TV8.tr" tvg-logo="https://i.imgur.com/DKNwiDm.png" ,TV 8 (1080p) [Not 24/7]
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
